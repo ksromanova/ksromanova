@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi! My name is Kseniia Romanova 👋
 
-<!--
-**ksromanova/ksromanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> <a href="www.linkedin.com/in/ksromanova"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> </p>
 
-Here are some ideas to get you started:
+I have 2 years of experience primarily in educational and several real projects within the scope of my studies. Proficient in basic machine learning and neural networks skills. Looking to further develop in the field of computer vision at the intersection with biotechnology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### Databases: 
+PostgreSQL
+
+###### Data Science: 
+Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras, Pytorch
+
+###### Python: 
+Python, Flask, Django, RESTful API, Git, Security
+
+<h3>My portfolio with data science projects:</h3>
+https://github.com/ksromanova/portfolio

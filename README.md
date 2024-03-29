@@ -14,4 +14,4 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras, Pytor
 Python, Flask, Django, RESTful API, Git, Security
 
 <h3>My portfolio with data science projects:</h3>
-https://github.com/ksromanova/portfolio
+https://github.com/ksromanova/yandex_practicum
